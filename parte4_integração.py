@@ -1,5 +1,5 @@
 from parte1_menu import executar_sistema_menu, validar_labirinto
-from parte2_pathfinding import PathFinder
+from parte2_percurso import PathFinder
 from parte3_visualizacao import VisualizadorResultado
 
 def executar_pathfinder_completo():
